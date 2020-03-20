@@ -1,5 +1,5 @@
 {
-  "name": "windowsize",
+  "name": "@ulugbek-dev/windowsize",
   "version": "1.0.0",
   "description": "Get window width and height",
   "main": "index.js",

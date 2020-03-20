@@ -1,0 +1,8 @@
+{
+  "short_name": "windowsize2",
+  "name": "windowsize2",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
