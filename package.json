@@ -1,0 +1,27 @@
+{
+  "name": "windowsize",
+  "version": "1.0.0",
+  "description": "Get window width and height",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulugbek-dev/useWidth.git"
+  },
+  "keywords": [
+    "window",
+    "width",
+    "height",
+    "hook",
+    "resize",
+    "size"
+  ],
+  "author": "UlugBek Abduloev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulugbek-dev/windowsize/issues"
+  },
+  "homepage": "https://github.com/ulugbek-dev/windowsize#readme"
+}
